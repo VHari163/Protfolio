@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     
     const phrases = [
         'Data Science Student',
-        'Machine Learning Enthusiast',
-        'Python • SQL • Pandas'
+        'Mother Theresa Institutions',
+        'Palamaner | Melmoi '
     ];
     let partIndex = 0;
     let charIndex = 0;
